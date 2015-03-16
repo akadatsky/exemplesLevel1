@@ -38,18 +38,18 @@
             />
 
     <Button
-            android:id="@+id/listView"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="ListView"
-            android:layout_margin="10dp"
-            />
-
-    <Button
             android:id="@+id/inflater"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Inflater"
+            android:layout_margin="10dp"
+            />
+
+    <Button
+            android:id="@+id/listView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ListView"
             android:layout_margin="10dp"
             />
 
