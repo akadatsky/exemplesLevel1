@@ -20,4 +20,11 @@ public class Person implements Serializable{
         return age;
     }
 
+    @Override
+    public String toString() {
+        return "Person{" +
+                "age=" + age +
+                ", name='" + name + '\'' +
+                '}';
+    }
 }
