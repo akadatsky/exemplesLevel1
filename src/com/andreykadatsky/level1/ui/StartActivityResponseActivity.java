@@ -12,7 +12,7 @@ public class StartActivityResponseActivity extends Activity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.main);
+        setContentView(R.layout.activity_main);
 
         List<String> list = (ArrayList<String>) getIntent().getSerializableExtra("list");
 
