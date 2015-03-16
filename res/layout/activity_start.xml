@@ -5,61 +5,6 @@
               android:layout_height="fill_parent"
         >
 
-    <Button
-            android:id="@+id/date"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Date"
-            android:layout_margin="10dp"
-            />
-
-    <Button
-            android:id="@+id/startActivity"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="StartActivity"
-            android:layout_margin="10dp"
-            />
-
-    <Button
-            android:id="@+id/asyncTask"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="AsyncTask"
-            android:layout_margin="10dp"
-            />
-
-    <Button
-            android:id="@+id/request"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Resuest"
-            android:layout_margin="10dp"
-            />
-
-    <Button
-            android:id="@+id/listView"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="ListView"
-            android:layout_margin="10dp"
-            />
-
-    <Button
-            android:id="@+id/Inflater"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Inflater"
-            android:layout_margin="10dp"
-            />
-
-    <Button
-            android:id="@+id/json"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="JSON"
-            android:layout_margin="10dp"
-            />
 
 </LinearLayout>
 
